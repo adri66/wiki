@@ -110,23 +110,16 @@ Cette commande créé un fichier client.csr, qui contient la demande de signatur
 Copie ce contenu précieusement, et rends-toi sur https://user.neutrinet.be
 
 Connecte-toi
+![](https://cloud.adriy.be/index.php/s/eJsybAEPSrcctiR/preview)
 
-**image**
+Attends que cela charge, et quand tu vois ton nom, clique dessus.
+![](https://cloud.adriy.be/index.php/s/nbynG5iebCGXsat/preview)
 
-Clique sur users
-
-
-Attends que cela charge, et quand tu vois ton nom, clique dessus, puis sur "View associated clients"
-
-
-**image**
-
-Ensuite clique sur ton certificat (si tu en as plusieurs, il faut utiliser celui qui liste une IPv4 - 80.67.181.x), et choisi l'option "Renew certificate"
-
-
-**image**
+Ensuite clique sur "Assign new keypair"
+![](https://cloud.adriy.be/index.php/s/BMG26pYtYJPb7q5/preview)
 
 Il va alors te présenter ton certificat actuel. si tu cliquer sur Rekey, tu auras la possibilité de coller le CSR (le fichier généré plus tôt, que tu as copié), puis de cliquer sur Rekey.
+![](https://cloud.adriy.be/index.php/s/EpwEA7DjA5TAzLK/preview)
 
 Une fois cette opération terminée, tu verras un bandeau comme ceci:
 
